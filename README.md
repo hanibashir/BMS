@@ -1,2 +1,2 @@
 # BMS
-Simple php script for book store - 2017
+Simple php script for book store
